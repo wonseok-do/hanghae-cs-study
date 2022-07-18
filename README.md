@@ -6,3 +6,5 @@
 - 스터디 가이드 : [> 바로가기](https://teamsparta.notion.site/CS-0d42ecd17f5e4fe1af1436b9dd5f61cf)
 
 VSC 에서 `Ctrl + Shift + V` 키를 누르시면 깔끔한 디자인으로 볼 수 있어요 😀
+
+templates 폴더의 양식 한번만 보고 docs 에 담당하신 문서 짤막하게만 작성해주세요 😀
